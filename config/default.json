@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Eleonora:uliana07@contact-keeper.fqnfq.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Eleonora:uliana07@contact-keeper.fqnfq.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
 }
